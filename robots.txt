@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://abiruzzamanmolla.github.io/sitemap.xml
+Sitemap: https://borhangit.github.io/sitemap.xml
